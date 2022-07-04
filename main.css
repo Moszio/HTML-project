@@ -1,0 +1,127 @@
+
+
+header {
+ color: white;
+ background-color: #324452;
+ height: 722px;
+ width: 100%;
+ text-align: center;
+ background-image: url(https://media.gettyimages.com/photos/businessman-fixing-cufflinks-his-suit-picture-id533716912?b=1&k=20&m=533716912&s=170667a&w=0&h=XVDGV6WoQSwjVGqQEF7-r7BAbdCxk3Q091E2-Kqdj6E=) ;
+ background-size:100%;
+ background-blend-mode:lighten;
+}
+
+.header-1 {
+ font-size: 30px;
+ padding-top: 200px;
+ margin: 0 0 0 0;
+}
+
+.header-2{
+ font-size: 80px;
+ padding-top: none;
+ margin: 0 0 0 0;
+}
+
+.header-btn{
+ background-color: #ea2c52;
+ color: #fff;
+ border: none;
+ padding: 18px 36px 18px 36px; 
+ margin: 30px 0 0 0 ;
+ font-weight: bolder;
+ border-radius: 5px;
+ font-size: 18px;
+}
+
+.main{
+ background-color: white;
+ height: 450px;
+ width: 100%;
+
+}
+
+
+
+#footer{
+ height: 60px;
+ display: block;
+ background-color: #fff;
+}
+
+
+#btn {
+ background-color: #ea2c52;
+}
+
+.div-mains {
+display: flex;
+z-index: 30;
+width: 100%;
+padding: 125px 0 125px 0;
+justify-content: center;
+gap: 5%;
+}
+
+.div-main-main{
+ color: #324452;
+ display: block;
+ text-align: center;
+ font-size: 20px;
+}
+
+
+.div-mains .control{
+ height: 10px;
+ width: 10px;
+ padding: 3rem; 
+ z-index: 10;
+ display: inl;
+ border-radius: 50%;
+ background-color: #324452;
+ margin: auto;
+ font-size: 60px;
+ cursor: pointer;
+}
+
+
+
+.div-mains .control i{
+
+color: #fff;
+
+transform:translate(-40%, -45%)
+}
+
+
+.bottom {
+ height: 600px;
+ width: 100%;
+ background-color:#2c3c4c;
+ display: flex;
+ align-content: center;
+}
+
+.bottom-div {
+ color:#fff;
+ margin: 5% 0 0 20%;
+}
+
+.bottom-div h3 {
+ font-size: 32px;
+}
+
+.bottom-div p {
+ font-size: 20px;
+}
+
+.bottom img {
+ width: 611px;
+ height: 375px;
+ margin: 85px 0 0 0;
+ right: 25%;
+
+}
+.bottom-div .header-btn {
+ font-weight: bold ;
+}
